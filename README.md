@@ -1,8 +1,11 @@
 Voispeed Message Identity Spoofer
 =================================
 Author: Stefano Gabryel
+
 Website: http://www.stefano-workshop.com
+
 Released under: GPL v3
+
 
 This script is used to exploit a vulnerability in the Voispeed client version 4.3.26(Raskuophone).
 Basically, you can just send a well crafted UDP packet to a client connected to a Voispeed server,
